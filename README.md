@@ -6,10 +6,9 @@ I started programming with HTML, CSS, and JavaScript, and I'm now building real-
 I enjoy turning ideas into clean, responsive, and user-friendly interfaces.
 
 📚 From teaching history to building the future — I'm excited about the journey ahead.
-___
+
 ## My Last Year Stats
 ![My stats](https://github-stats-extended.vercel.app/api?username=s-ebrahimi-dev&show_icons=true&theme=highcontrast)
-___
 ## Most used languages in projects
 ![Most used langs](https://github-stats-extended.vercel.app/api/top-langs/?username=s-ebrahimi-dev&stats_format=bytes
 )
