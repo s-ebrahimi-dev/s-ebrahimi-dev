@@ -6,7 +6,8 @@ I started programming with HTML, CSS, and JavaScript, and I'm now building real-
 I focused on JavaScript ecosystems and modern web development. Skilled in integrating AI-assisted tools into my workflow for debugging, research, and efficient problem-solving.**
 
 **📚 From teaching history to building the future — I'm excited about the journey ahead.**
-
+___
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/989153044651) [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?logo=gmail&logoColor=white)](mailto:s.ebrahimi.dev@gmail.com)
 ## My Last Year Stats
 ![My stats](https://github-stats-extended.vercel.app/api?username=s-ebrahimi-dev&show_icons=true&theme=highcontrast&rank_icon=github)
 ## Most used languages in projects
