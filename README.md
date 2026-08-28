@@ -10,6 +10,6 @@ ___
 ## My Last Year Stats
 ![My stats](https://github-stats-extended.vercel.app/api?username=s-ebrahimi-dev&show_icons=true&theme=highcontrast)
 ___
-Most used languages in projects
+## Most used languages in projects
 ![Most used langs](https://github-stats-extended.vercel.app/api/top-langs/?username=s-ebrahimi-dev&stats_format=bytes
 )
