@@ -8,7 +8,7 @@ I enjoy turning ideas into clean, responsive, and user-friendly interfaces.
 📚 From teaching history to building the future — I'm excited about the journey ahead.
 
 ## My Last Year Stats
-![My stats](https://github-stats-extended.vercel.app/api?username=s-ebrahimi-dev&show_icons=true&theme=highcontrast)
+![My stats]([https://github-stats-extended.vercel.app/api?username=s-ebrahimi-dev&show_icons=true&theme=highcontrast](https://github-stats-extended.vercel.app/api?username=s-ebrahimi-dev&show_icons=true&theme=highcontrast&rank_icon=github))
 ## Most used languages in projects
 ![Most used langs](https://github-stats-extended.vercel.app/api/top-langs/?username=s-ebrahimi-dev&stats_format=bytes
 )
