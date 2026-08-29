@@ -28,11 +28,11 @@ ___
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" title="Node.js"/>
   &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-     width="75" height="75"
+<img src="https://cdn.simpleicons.org/express"
+     width="65"
+     height="65"
      alt="Express.js"
-     title="Express.js"
-     style="filter: invert(1);"/>
+     title="Express.js"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" title="MongoDB"/>
 </p>
@@ -42,11 +42,11 @@ ___
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git" title="Git"/>
   &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-     width="65" height="65"
+<img src="https://cdn.simpleicons.org/github/FFFFFF"
+     width="65"
+     height="65"
      alt="GitHub"
-     title="GitHub"
-     style="filter: invert(1);"/>
+     title="GitHub"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" title="VS Code"/>
   &nbsp;&nbsp;
