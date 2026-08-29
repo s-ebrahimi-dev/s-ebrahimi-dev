@@ -28,11 +28,13 @@ ___
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" title="Node.js"/>
   &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/express"
-     width="65"
-     height="65"
-     alt="Express.js"
-     title="Express.js"/>
+<img
+  src="https://cdn.simpleicons.org/express/FFFFFF"
+  width="80"
+  height="80"
+  alt="Express.js"
+  title="Express.js"
+/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB" title="MongoDB"/>
 </p>
