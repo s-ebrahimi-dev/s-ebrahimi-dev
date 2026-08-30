@@ -6,7 +6,7 @@ ___
 - 🏛️&nbsp;Degree: M.A in History, Graduated in 2013, university of tehran
 - 🏢&nbsp;First job: History teacher
 - 🧑‍💻&nbsp;Favorite job: FrontEnd developer
-- 🙇&nbsp;What I love most: Learning... Learning and Learning again
+- 🙇&nbsp;My hobbies: Learning ... Learning and Learning again
 - 📖&nbsp;Busy learning: Modern web development technologies such as React, Next.js, TypeScript and ...
 
 **📚 From teaching history to building the future — I'm excited about the journey ahead.**
