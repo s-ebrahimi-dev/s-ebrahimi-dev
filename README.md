@@ -1,15 +1,16 @@
-# Hi there, I'm Saeed Ebrahimi Moghaddam 👋
-___
-## About me: 
-- 🌟&nbsp;Born: 1988, Iran
-- 🏡&nbsp;Living: Iran
-- 🏛️&nbsp;Degree: M.A in History, Graduated in 2013, university of tehran
-- 🏢&nbsp;First job: History teacher
-- 🧑‍💻&nbsp;Favorite job: FrontEnd developer
-- 🙇&nbsp;My hobbies: Learning ... Learning and Learning again
-- 📖&nbsp;Busy learning: Modern web development technologies such as React, Next.js, TypeScript and ...
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Saeed+Ebrahimi+Moghaddam;History+Teacher+%7C+Future+Frontend+Developer;Building+Web+Applications+with+Modern+JavaScript;Currently+Learning+React+%26+Next.js" />
+</h1>
+<h2>About me</h2>
 
-**📚 From teaching history to building the future — I'm excited about the journey ahead.**
+- 🏛️ M.A. in History — University of Tehran (2013)
+- 📚 Former History Teacher with a passion for technology
+- 🧑‍💻 Transitioning into Frontend Development
+- ⚡ Building projects with JavaScript, Tailwind CSS, Node.js and MongoDB
+- 🌱 Currently learning React, Next.js and TypeScript
+- 🚀 My goal: Create modern, accessible and scalable web applications
+
+**From teaching history to building the future — I'm excited about the journey ahead.**
 ___
 <h2 align="left"> contacts 📞</h2>
 
