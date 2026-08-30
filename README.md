@@ -7,8 +7,11 @@ I focused on JavaScript ecosystems and modern web development. Skilled in integr
 
 **📚 From teaching history to building the future — I'm excited about the journey ahead.**
 ___
- [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?logo=gmail&logoColor=white)](mailto:s.ebrahimi.dev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/989153044651) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByxY8dtBVRcyLXNtzeQ22xA%3D%3D)
- 
+## contacts 📞
+<a href="mailto:s.ebrahimi.dev@gmail.com"><img src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-gmail-48.png?raw=true"/><a/>
+<a href="https://wa.me/989153044651"><img src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-whatsapp-48.png?raw=true"/><a/>
+<a href="https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByxY8dtBVRcyLXNtzeQ22xA%3D%3D"/><img src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-linkedin-48.png?raw=true"/><a/>
+
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
