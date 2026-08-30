@@ -36,8 +36,8 @@ ___
   &nbsp;&nbsp;
 <img
   src="https://cdn.simpleicons.org/express/FFFFFF"
-  width="80"
-  height="80"
+  width="65"
+  height="65"
   alt="Express.js"
   title="Express.js"
 />
@@ -59,6 +59,12 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code" title="VS Code"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="65" height="65" alt="npm" title="npm"/>
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="65" height="65" alt="Xd" title="Xd" />
+    &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="65" height="65" alt="figma" title="figma" />
+          
+          
 </p>
 
 ### 🌱 Currently Learning
