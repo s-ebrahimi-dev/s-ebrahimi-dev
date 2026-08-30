@@ -1,17 +1,19 @@
 # Hi there, I'm Saeed Ebrahimi Moghaddam 👋
 ___
 ## About me: 
-**I'm a history teacher transitioning into the world of software development and frontend engineering.
-I started programming with HTML, CSS, and JavaScript, and I'm now building real-world projects while expanding my skills with modern technologies such as React, Next.js, TypeScript, Tailwind CSS, and Node.js.
-I focused on JavaScript ecosystems and modern web development. Skilled in integrating AI-assisted tools into my workflow for debugging, research, and efficient problem-solving.**
+- 🌟&nbsp;Born: 1988, Iran
+- 🏡&nbsp;Living: Iran
+- 🏛️&nbsp;Degree: M.A in History, Graduated in 2013, university of tehran
+- 🏢&nbsp;First job: History teacher
+- 🧑‍💻&nbsp;Favorite job: FrontEnd developer
+- 🙇&nbsp;What I love most: Learning... Learning and Learning again
+- 📖&nbsp;Busy learning: Modern web development technologies such as React, Next.js, TypeScript and ...
 
 **📚 From teaching history to building the future — I'm excited about the journey ahead.**
 ___
-<h2 align="center"> contacts 📞</h2>
+<h2 align="left"> contacts 📞</h2>
 
-<a href="mailto:s.ebrahimi.dev@gmail.com"><img width="38px" height="38px"  align="center"   src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-gmail-48.png?raw=true"/><a/>
-<a href="https://wa.me/989153044651"><img width="38px" height="38px"  align="center"  src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-whatsapp-48.png?raw=true"/><a/>
-<a href="https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByxY8dtBVRcyLXNtzeQ22xA%3D%3D"/><img width="38px" height="38px"  align="center"  src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-linkedin-48.png?raw=true"/><a/>
+<a href="mailto:s.ebrahimi.dev@gmail.com"><img width="38px" height="38px"  align="center"   src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-gmail-48.png?raw=true"/><a/>&nbsp; &nbsp;<a href="https://wa.me/989153044651"><img width="38px" height="38px"  align="center"  src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-whatsapp-48.png?raw=true"/><a/>&nbsp; &nbsp;<a href="https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByxY8dtBVRcyLXNtzeQ22xA%3D%3D"/><img width="38px" height="38px"  align="center"  src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-linkedin-48.png?raw=true"/><a/>
 ___
 ## 🛠️ Tech Stack
 
