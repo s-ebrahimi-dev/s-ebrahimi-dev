@@ -12,9 +12,43 @@
 
 **From teaching history to building the future — I'm excited about the journey ahead.**
 ___
-<h2 align="left"> contacts 📞</h2>
+<h2 align="left">Contacts 📞</h2>
 
-<a href="mailto:s.ebrahimi.dev@gmail.com"><img width="38px" height="38px"  align="center"   src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-gmail-48.png?raw=true"/><a/>&nbsp; &nbsp;<a href="https://wa.me/989153044651"><img width="38px" height="38px"  align="center"  src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-whatsapp-48.png?raw=true"/><a/>&nbsp; &nbsp;<a href="https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByxY8dtBVRcyLXNtzeQ22xA%3D%3D"/><img width="38px" height="38px"  align="center"  src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-linkedin-48.png?raw=true"/><a/>
+<a href="mailto:s.ebrahimi.dev@gmail.com">
+  <img
+    width="38px"
+    height="38px"
+    align="center"
+    src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-gmail-48.png?raw=true"
+    alt="Gmail"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://wa.me/989153044651">
+  <img
+    width="38px"
+    height="38px"
+    align="center"
+    src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-whatsapp-48.png?raw=true"
+    alt="WhatsApp"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/">
+  <img
+    width="38px"
+    height="38px"
+    align="center"
+    src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-linkedin-48.png?raw=true"
+    alt="LinkedIn"
+  />
+</a>
+
+
 ___
 ## 🛠️ Tech Stack
 
