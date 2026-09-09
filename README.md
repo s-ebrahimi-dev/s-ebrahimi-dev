@@ -15,37 +15,34 @@ ___
 <h2 align="left">Contacts 📞</h2>
 
 <a href="mailto:s.ebrahimi.dev@gmail.com">
-  <img
-    width="38px"
-    height="38px"
-    align="center"
-    src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-gmail-48.png?raw=true"
-    alt="Gmail"
-  />
+<img
+  width="38"
+  height="38"
+  src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-gmail-48.png"
+  alt="Gmail"
+/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://wa.me/989153044651">
-  <img
-    width="38px"
-    height="38px"
-    align="center"
-    src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-whatsapp-48.png?raw=true"
-    alt="WhatsApp"
-  />
+<img
+  width="38"
+  height="38"
+  src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-whatsapp-48.png"
+  alt="WhatsApp"
+/>
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/">
   <img
-    width="38px"
-    height="38px"
-    align="center"
-    src="https://github.com/s-ebrahimi-dev/cms-dashboard/blob/main/icons8-linkedin-48.png?raw=true"
-    alt="LinkedIn"
-  />
+  width="38"
+  height="38"
+  src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-linkedin-48.png"
+  alt="LinkedIn"
+/>
 </a>
 
 
