@@ -14,37 +14,11 @@
 ___
 <h2 align="left">Contacts 📞</h2>
 
-<div align="left">
-
   <a href="mailto:s.ebrahimi.dev@gmail.com"><img width="38" height="38" src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-gmail-48.png" alt="Gmail"/></a>
   &nbsp;&nbsp;
  <a href="mailto:s.ebrahimi.dev@gmail.com"><img width="38" height="38" src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-whatsapp-48.png" alt="Gmail"/></a>
   &nbsp;&nbsp;
    <a href="mailto:s.ebrahimi.dev@gmail.com"><img width="38" height="38"  src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-linkedin-48.png" alt="Gmail"/></a>
-  <a href="https://wa.me/989153044651">
-<img
-  width="38"
-  height="38"
-  src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-whatsapp-48.png"
-  alt="WhatsApp"
-/>
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/saeed-ebrahimi-moghaddam-66a316432/">
-  <img
-  width="38"
-  height="38"
-  src="https://raw.githubusercontent.com/s-ebrahimi-dev/s-ebrahimi-dev/main/icons8-linkedin-48.png"
-  alt="LinkedIn"
-/>
-  </a>
-
-</div>
-
-
-
 
 ___
 ## 🛠️ Tech Stack
